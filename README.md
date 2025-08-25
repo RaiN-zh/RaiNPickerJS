@@ -459,5 +459,5 @@ Sets the content description to the Picker Item
 | ---- | -------- |
 |  enum('light', 'dark')  | No       |
 
-### `fyCommderPrject phlb`
+### `fyCommderPrject phlbs`
 RubickJakiroAttacktest-phl-apithefyinformationtheccfalllight
